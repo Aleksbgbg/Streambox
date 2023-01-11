@@ -1,0 +1,7 @@
+group_imports = "One"
+imports_granularity = "Module"
+imports_layout = "HorizontalVertical"
+max_width = 120
+tab_spaces = 2
+unstable_features = true
+wrap_comments = true
